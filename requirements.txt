@@ -1,0 +1,8 @@
+boto3
+Pillow
+pyautogui
+keyboard
+psutil
+cryptography
+requests
+pytz

@@ -1,0 +1,8 @@
+{
+    "screenshot_interval": 10,
+    "blur": false,
+    "screenshot_path": "./screenshots",
+    "bucket_name": "your-s3-bucket-name",
+    "aws_access_key": "your-aws-access-key",
+    "aws_secret_key": "your-aws-secret-key"
+}
