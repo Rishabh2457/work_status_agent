@@ -6,7 +6,7 @@ import os
 class ScreenshotManager:
     def __init__(self, config):
         self.blur = config.get('blur', False)
-        self.screenshot_interval = config.get('screenshot_interval', 10)
+        self.screenshot_interval = config.get('screenshot_interval', 300)
         self.screenshot_path = config.get('screenshot_path', './screenshots')
 
     def capture_screenshot(self):
